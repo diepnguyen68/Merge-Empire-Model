@@ -1,0 +1,16 @@
+{
+  "name": "com.funzilla.toon-water",
+  "version": "1.2.0",
+  "displayName": "Funzilla Toon Water",
+  "keywords": [
+    "Funzilla",
+    "Toon",
+    "Water"
+  ],
+  "author": {
+    "name": "Funzilla",
+    "url": "funzilla.com"
+  },
+  "description": "Toon water for Hyper Casual Games made by Funzilla",
+  "unity": "2020.3"
+}
